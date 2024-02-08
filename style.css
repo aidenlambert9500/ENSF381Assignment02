@@ -47,6 +47,7 @@ h1 {
 .shop-now button a{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
+    font-size: 16px;
     text-decoration: none;
 }
 .customer-reviews {

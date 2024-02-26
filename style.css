@@ -155,8 +155,19 @@ footer {
   background-color: #fff;
 }
 
+
+.password-wrapper{
+  display: flex;
+  align-items: center;
+}
+.password-wrapper button{margin-left: 5px;}
+.password-wrapper form{margin-right: 5px;}
 .login-button {
   background-color: #4caf50;
+  display: flex;
+  align-items: center;
+
+  
   padding: 10px;
   border-radius: 5px;
   margin: 10px;
